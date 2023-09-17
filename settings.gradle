@@ -1,0 +1,1 @@
+include 'ui-app', 'weather-app', 'api-gateway'
